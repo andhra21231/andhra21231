@@ -3,7 +3,7 @@
 
  - 💻 I’m currently working on [VHC.ONE](https://developers.vhc.one)
  - 💿 Starting Developing VHC [VHC Optimizer](https://developers.vhc.one/optimizer)
- - 📚 Study At [SMP Muhammadiyah Program Khusus Surakarta](https://http://smp.muhpksolo.sch.id/)
+ - 📚 Study At [SMP Muhammadiyah Program Khusus Surakarta](https://smp.muhpksolo.sch.id/)
 
 <br><br>
 <h1 align="left">Language : </h1>
