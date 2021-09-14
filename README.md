@@ -11,7 +11,7 @@
 
 <br><br>
 <h1 align="left">Best Tools : <h1>
- <p align="left"><a href="https://m.do.co/c/e45aacc403b9"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digital-ocean" width="40" height="40"></a><a href="https://www.vultr.com/?ref=8877377"><img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/vultr.svg" alt="vultr" width="40" height="40"></a><a href="https://www.canva.com/join/hmc-mmg-myw"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"></a>
+ <p align="left"><a href="https://m.do.co/c/e45aacc403b9"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digital-ocean" width="40" height="40"></a><a href="https://www.vultr.com/?ref=8877377"><img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/vultr.svg" alt="vultr" width="120" height="120"></a><a href="https://www.canva.com/join/hmc-mmg-myw"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"></a>
   
 <br><br>
 <h1 align="left">Statistics: <h1>
