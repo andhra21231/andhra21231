@@ -15,7 +15,7 @@
   
 <br><br>
 <h1 align="left">Statistics: <h1>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andhra21231&show_icons=true&locale=en&layout=compact" alt="andhra21231" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=andhra21231&show_icons=true&locale=en" alt="andhra21231" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andhra21231&show_icons=true&locale=en&layout=compact" alt="andhra21231" /><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=andhra21231&show_icons=true&locale=en" alt="andhra21231" />
  
 <br><br>
 <h1 align="left">Achievement: <h1>
