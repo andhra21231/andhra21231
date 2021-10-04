@@ -24,4 +24,4 @@
   <p align="left"> <a href="https://github.com/andhra21231"><img src="https://github-profile-trophy.vercel.app/?username=andhra21231" alt="andhra21231" /></a> </p>
 <br><br>
  <h1 align="left">Left Some Money For Me :D </h1>
-  <p align="left"><a href="paypal.me/rainver"><img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/PayPal.svg"></a><a href="https://saweria.co/vhcid">Saweria.CO</a>
+  <p align="left"><a href="paypal.me/rainver"><img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/PayPal.svg" alt="paypal" width="40" height="40"></a><a href="https://saweria.co/vhcid">Saweria.CO</a>
