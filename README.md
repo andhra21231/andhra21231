@@ -2,7 +2,7 @@
 <h3 align="center">Founder Of VHC Group - CEO Of VHC Minecraft - Student At SMP Muhammadiyah Program Khusus Surakarta</h3>
 
  - 💻 I’m currently working on [VHC.ONE](https://developers.vhc.one)
- - 💿 Starting Developing VHC [VHC Optimizer](https://developers.vhc.one/optimizer)
+ - 💿 RELEASE! VHC Optimizer V1 [VHC Optimizer](https://api.vhc.one/v1/optimizer.exe)
  - 📚 Study At [SMP Muhammadiyah Program Khusus Surakarta](https://smp.muhpksolo.sch.id/)
 
 <br><br>
