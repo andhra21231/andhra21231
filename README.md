@@ -1,4 +1,4 @@
-<h1 align="center">Hellow! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Im andhra21231 - Zack_</h1>
+<h1 align="center">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm andhra21231 - Zack_</h1>
 <h3 align="center">Founder Of VHC Group - CEO Of VHC Minecraft - Student At SMP Muhammadiyah Program Khusus Surakarta</h3>
 
  - 💻 I’m currently working on [VHC.ONE](https://developers.vhc.one)
