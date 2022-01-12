@@ -1,9 +1,9 @@
-<h1 align="center">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm andhra21231 - Zack_</h1>
-<h3 align="center">Founder Of VHC Group - CEO Of VHC Minecraft - Student At SMP Muhammadiyah Program Khusus Surakarta</h3>
+<h1 align="center">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm andhra21231 - Zack_</h1>
+<h3 align="center">Developer, Student, Owner, And Cat Lover 💖</h3>
 
- - 💻 I’m currently working on [VHC.ONE](https://developers.vhc.one)
- - 💿 RELEASE! VHC Optimizer V1 [VHC Optimizer](https://api.vhc.one/v1/optimizer.exe)
- - 📚 Study At [SMP Muhammadiyah Program Khusus Surakarta](https://smp.muhpksolo.sch.id/)
+ - 💻 I’m currently working on [VHC Studios](https://vhc.one)
+ - 📚 Study At PK JHS
+ - 🛠 Community Admin Of League Of Legends : Wild Rift Indonesia
 
 <br><br>
 <h1 align="left">Language : </h1>
