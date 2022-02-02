@@ -18,7 +18,7 @@
  
 <br><br>
 <h1 align="left">Contact with me <3 : </h1>
- <p align="left"><a href="https://instagram.com/zack_quaryx"><img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/instagram.svg" alt="instagram" width="40" height="40"></a> <a href="mailto:andhra@muhpksolo.sch.id"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" alt="gmail" width="40" height="40"></a> <a href="https://vhc.one/discord"><img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/color/discord.svg" alt="discord" width="40" height="40"> </a>
+ <p align="left"><a href="https://instagram.com/zack_quaryx"><img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/instagram.svg" alt="instagram" width="40" height="40"></a> <a href="mailto:andhra@muhpksolo.sch.id"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" alt="gmail" width="40" height="40"></a> <a href="https://discord.gg/wildriftid"><img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/color/discord.svg" alt="discord" width="40" height="40"> </a>
 <br><br>
 <h1 align="left">Achievement: </h1>
   <p align="left"> <a href="https://github.com/andhra21231"><img src="https://github-profile-trophy.vercel.app/?username=andhra21231" alt="andhra21231" /></a> </p>
