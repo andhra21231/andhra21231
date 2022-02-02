@@ -4,6 +4,7 @@
  - 💻 I’m currently working on [VHC Studios](https://vhc.one)
  - 📚 Study At PK JHS
  - 🛠 Community Admin Of League Of Legends : Wild Rift Indonesia
+ - 🗿 Have Feels with Someone but I Can't Say To Her 🗿
 
 <br><br>
 <h1 align="left">Language : </h1>
