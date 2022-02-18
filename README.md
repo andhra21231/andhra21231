@@ -1,10 +1,10 @@
 <h1 align="center">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm andhra21231 - Zack_</h1>
 <h3 align="center">Developer, Student, And Cat Lover 💖</h3>
 
- - 💻 I’m currently working on [VHC Studios](https://vhc.one)
+ - 💻 Founder And CEO of [Pelajar Social](https://www.pelajar.social)
  - 📚 Study At PK JHS
  - 🛠 Community Admin Of League Of Legends : Wild Rift Indonesia
- - 🗿 Have Feels with Someone but I Can't Say To Her 🗿
+ - ✅ Big Project Called : Market Pelajar.
 
 <br><br>
 <h1 align="left">Language : </h1>
