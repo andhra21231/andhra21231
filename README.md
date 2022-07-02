@@ -1,4 +1,4 @@
-<h1 align="center">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm andhra21231 - Zack_</h1>
+<h1 align="center">Greetings!
 <h3 align="center">Developer, Student, And Someone in Indonesia</h3>
 
  - 💻 Founder And CEO of [Pelajar Social](https://www.pelajar.social)
