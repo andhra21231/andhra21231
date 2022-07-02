@@ -2,7 +2,7 @@
 <h3 align="center">Developer, Student, And Someone in Indonesia</h3>
 
  - 💻 Founder And CEO of [Pelajar Social](https://www.pelajar.social)
- - 📚 Study At PK JHS
+ - 📚 Study At PK Senior High School
  - 🛠 Community Admin Of League Of Legends : Wild Rift Indonesia
  - ✅ Big Project Called : Market Pelajar.
 
